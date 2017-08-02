@@ -1,3 +1,6 @@
+<?php
+header('Server: Question Hound');
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
